@@ -1,4 +1,4 @@
-### (ಠ_ಠ) About
+### (╰‿╯) About
 
 - Focusing on DevOps, SRE, perf/scale R&D, large-scale BM systems/network automation
 - Authored QUADS system and network automation tool for deployment and management of bare metal systems, and private network interfaces.  See: http://quads.dev/
